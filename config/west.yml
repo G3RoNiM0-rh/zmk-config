@@ -4,7 +4,7 @@ manifest:
       url-base: https://github.com/zmkfirmware
     # Additional modules containing boards/shields/custom code can be listed here as well
     # See https://docs.zephyrproject.org/3.2.0/develop/west/manifest.html#projects
-    - name: g3ronim0
+    - name: G3RoNiM0-rh
       url-base: https://github.com/G3RoNiM0-rh
   projects:
     - name: zmk
